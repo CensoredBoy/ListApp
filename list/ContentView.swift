@@ -36,7 +36,9 @@ var app: appClass
 var body: some View
 {
     
-    Link(destination: URL(string: app.link!)!)
+    
+    
+    Link(destination: URL(string: app.get_link())!)
     {
         HStack{
             AsyncImage(url: URL(string: app.icon_url!))
