@@ -46,10 +46,10 @@
 		0458D28F287F64D5002A803B /* listUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = listUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0458D293287F64D5002A803B /* listUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = listUITests.swift; sourceTree = "<group>"; };
 		0458D295287F64D5002A803B /* listUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = listUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		0458D2A2287F6640002A803B /* appClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = appClass.swift; path = ../../../../../Downloads/appClass.swift; sourceTree = "<group>"; };
+		0458D2A2287F6640002A803B /* appClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = appClass.swift; sourceTree = "<group>"; };
 		0458D2AC287F95D7002A803B /* data.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 		0458D2B0287F9AC1002A803B /* parser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parser.swift; sourceTree = "<group>"; };
-		0458D2B228802E45002A803B /* listApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = listApp.swift; path = ../../../../../.Trash/listApp.swift; sourceTree = "<group>"; };
+		0458D2B228802E45002A803B /* listApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = listApp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
